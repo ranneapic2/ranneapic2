@@ -3,9 +3,9 @@
 ## Digital Twin RAG Interview Agent
 
 AI-powered interview agent using Retrieval-Augmented Generation (RAG) to 
-conduct grounded, factual interview simulations. Built as part of my 
-Master of Information Technology capstone (AusBiz Consulting Digital Twin 
-project) at APIC.
+conduct grounded, factual interview simulations. Built as part of the 
+10-week AI Data Analyst industry project internship through Employment 
+Advantage and AusBiz Consulting.
 
 **Role:** Scrum Leader, 6-person team
 **Responsibilities:** Git workflow coordination, merge conflict resolution, 
@@ -26,8 +26,10 @@ pull request management, documentation, performance tracking
 
 ## Food RAG Web App
 
-Solo-built retrieval-augmented generation application for food-related 
-queries, designed and deployed end to end as a personal portfolio project.
+Retrieval-augmented generation application for food-related queries, built 
+solo as part of AI Builder, a RAG for Data Specialist short course through 
+AusBiz Consulting, within the same 10-week AI Data Analyst industry project 
+internship.
 
 **Role:** Solo developer
 **Responsibilities:** Architecture, development, deployment
@@ -46,7 +48,9 @@ queries, designed and deployed end to end as a personal portfolio project.
 ## Music School Management System
 
 Full-stack web application simulating a real client project for a music 
-school, built for a university software development unit (IFB299).
+school. Completed in May 2018 as part of Application Design and 
+Development (IFB299), a unit in my Double Degree in IT and Creative 
+Industries at QUT.
 
 **Role:** Database and systems design
 **Responsibilities:** Entity Relationship Diagrams, Class Diagrams, User 
@@ -61,7 +65,6 @@ and Physical database design
 | Methodology | Agile Scrum (sprint planning, burndown tracking) |
 
 [Repository](https://github.com/ranneapic2/Team-3)
-<!--
 **ranneapic2/ranneapic2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
